@@ -1,4 +1,4 @@
 *.donot
 *.jpg
+*.txt
 .gitignore
-first.txt
